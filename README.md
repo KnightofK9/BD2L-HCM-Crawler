@@ -48,6 +48,7 @@
 46 :x: http://camera.thongtingiaothong.vn/s/59ca2cf302eb490011a0a3eb/index.m3u8 Cầu vượt An Sương 3  
 47 :x: http://camera.thongtingiaothong.vn/s/595d92013dcfc400106f2877/index.m3u8 Quốc lộ 1 - Cầu Bình Phước  
 48 :x: http://camera.thongtingiaothong.vn/s/59ca31d602eb490011a0a40b/index.m3u8 QL1 - Hồ Học Lãm  
+49 :x: http://camera.thongtingiaothong.vn/s/59ca2d9d02eb490011a0a3f0/index.m3u8 QL1 - Phan Văn Hớn 2  
 Total link 50  
-Total dead 39  
+Total dead 40  
 Total alive 10  
