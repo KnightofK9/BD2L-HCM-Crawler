@@ -21,7 +21,7 @@ def main():
     length = len(result)
     alive_count = 0
     dead_count = 0
-    for i in range(0, length - 1):
+    for i in range(0, length):
         desc = result[i][0]
         url = result[i][1]
         is_alive = check_alive(url)
